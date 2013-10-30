@@ -3,7 +3,7 @@
 <%-- 
     Document   : ConsultaAtividades
     Created on : 18/09/2013, 15:22:55
-    Author     : FILIPE
+    Author     : FILIPE GERMANO
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>

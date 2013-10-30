@@ -3,7 +3,7 @@
 <%-- 
     Document   : newjsp
     Created on : 18/09/2013, 13:21:08
-    Author     : FILIPE
+    Author     : FILIPE GERMANO
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
